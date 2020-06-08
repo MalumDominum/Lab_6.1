@@ -1,0 +1,6 @@
+C:\Users\mihai\Source\repos\Lab_Shapes_6_1\Lab_Shapes_6_1\bin\Debug\Lab_Shapes_6_1.exe.config
+C:\Users\mihai\Source\repos\Lab_Shapes_6_1\Lab_Shapes_6_1\bin\Debug\Lab_Shapes_6_1.exe
+C:\Users\mihai\Source\repos\Lab_Shapes_6_1\Lab_Shapes_6_1\bin\Debug\Lab_Shapes_6_1.pdb
+C:\Users\mihai\Source\repos\Lab_Shapes_6_1\Lab_Shapes_6_1\obj\Debug\Lab_Shapes_6_1.csprojAssemblyReference.cache
+C:\Users\mihai\Source\repos\Lab_Shapes_6_1\Lab_Shapes_6_1\obj\Debug\Lab_Shapes_6_1.exe
+C:\Users\mihai\Source\repos\Lab_Shapes_6_1\Lab_Shapes_6_1\obj\Debug\Lab_Shapes_6_1.pdb
